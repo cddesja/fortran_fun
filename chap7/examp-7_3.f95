@@ -10,7 +10,7 @@ program period
   write (*, *) "Pendulum Period Calculation Program"
   write (*, *)
 
-  ! Prompt for length and angel values
+  ! Prompt for length and angle values
   write (*, *) "Enter length and angel values"
   read (*, *) length, angle
 
